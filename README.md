@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlvinWesley
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to develop visual basic and c ++ programs
-- 💞️ I’m looking to collaborate on app development and solution
+-  Hi, I’m @AlvinWesley
+-  I’m a fullstack web developer
+-  I have four years of application development using react framework 
+- I’m looking to collaborate on app development and solution
 - 📫 How to reach me call +254795628991 or email wesealv@gmail.com or Facebook Wesley Alvin or Instagram Breilerk or
     Whatsapp +254743617539
 
