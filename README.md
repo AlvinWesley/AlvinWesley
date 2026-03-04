@@ -2,7 +2,7 @@
 -  I’m a fullstack web developer
 -  I have four years of application development using react framework 
 - I’m looking to collaborate on app development and solution
-- 📫 How to reach me call +254795628991 or email wesealv@gmail.com or Facebook Wesley Alvin or Instagram Breilerk or
+- 📫 How to reach me call +254795628991 or email alvinindiazi8@gmail.com or Facebook Wesley Alvin or Instagram Breilerk or
     Whatsapp +254743617539
 
 <!---
